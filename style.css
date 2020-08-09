@@ -37,14 +37,14 @@ form button{
 }
 
 form button{
-    color: #d88771;
+    color: grey;
     background: white;
     cursor: pointer;
     transition: all 0.3s ease;
 }
 
 form button:hover{
-    background: #d88771;
+    background: grey;
     color: white;
 }
 
